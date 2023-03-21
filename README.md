@@ -1,16 +1,22 @@
-### Hi there 👋
+<div style="text-align:center;">
 
-<!--
-**Lethairgo/Lethairgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![但还可以](懂得不多.jpg)
 
-Here are some ideas to get you started:
+# Hi there, I am Mingyu 🙏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+A human-being powered by coffee ☕ and a deep love for coding 💻.<br> 
+A programming enthusiast who is passionate about creating beautiful and functional web applications 🌐.<br>
+A software wizard who loves to solve complex problems 🤓 and build elegant solutions 🏗️.<br>
+</p>
+
+📧 [mingyu.hu00@gmail.com](mailto:mingyu.hu00@gmail.com) 📩<br>
+💼 Portfolio: [mingyuhu.xyz](https://mingyuhu.xyz/) 🌟<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/mingyu-hu1) 🔗<br>
+
+🎥 In my free time, I love watching movies and analyzing their themes, cinematography, and storytelling 🎬.<br>
+📷 I'm also an avid macro photographer and enjoy capturing the beauty of small objects and details up close 📸.<br>
+
+# Ciao! 👋
+
+</div>
