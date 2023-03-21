@@ -1,6 +1,7 @@
-<div style="text-align:center;">
+<div align="center">
 
 ![但还可以](懂得不多.jpg)
+<hr></hr>
 
 # Hi there, I am Mingyu 🙏
 
