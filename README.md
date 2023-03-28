@@ -10,11 +10,9 @@ A human-being powered by coffee ☕ and a deep love for coding 💻.<br>
 A programming enthusiast who is passionate about creating beautiful and functional web applications 🌐.<br>
 A software wizard who loves to solve complex problems 🤓 and build elegant solutions 🏗️.<br>
 </p>
-<div>
 📧 [mingyu.hu00@gmail.com](mailto:mingyu.hu00@gmail.com) 📩<br>
 💼 Portfolio: [mingyuhu.xyz](https://mingyuhu.xyz/) 🌟<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/mingyu-hu1) 🔗<br>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lethairgo&label=Profile%20views&color=0e75b6&style=flat" alt="lethairgo" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lethairgo" alt="lethairgo" /></a> </p>
