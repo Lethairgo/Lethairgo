@@ -1,7 +1,9 @@
 <div align="center">
 
+<!--
 ![但还可以](懂得不多.jpg)
 <hr></hr>
+-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F71E62&center=true&vCenter=true&width=435&lines=Hi+there%2C+I+am+Mingyu+%F0%9F%99%8F)](https://git.io/typing-svg)
 
